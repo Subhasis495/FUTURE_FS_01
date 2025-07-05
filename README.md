@@ -49,7 +49,7 @@ This is my personal portfolio website where I showcase my journey as a Computer 
 - **Icons**: Lucide React
 - **Build Tool**: Vite
 - **Form Handling**: Formspree
-- **Deployment**: Netlify/Vercel *(Update based on your deployment)*
+- **Deployment**: Netlify
 
 ## 🚀 Getting Started
 
@@ -62,7 +62,7 @@ This is my personal portfolio website where I showcase my journey as a Computer 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Subhasis495/portfolio-website.git
+   git clone https://github.com/Subhasis495/FUTURE_FS_01.git
    cd portfolio-website
    ```
 
@@ -85,11 +85,6 @@ This is my personal portfolio website where I showcase my journey as a Computer 
 npm run build
 ```
 
-### Preview Production Build
-
-```bash
-npm run preview
-```
 
 ## 📁 Project Structure
 
