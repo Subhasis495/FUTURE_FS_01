@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-portfolio-url.com) *(Update with your actual deployment URL)*
+[View Live Portfolio](https://ubiquitous-crisp-f01557.netlify.app/)
 
 ## 📋 Table of Contents
 
@@ -197,7 +197,7 @@ While this is a personal portfolio, I welcome suggestions and feedback:
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License]
 
 ## 📞 Contact
 
