@@ -8,16 +8,16 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 
 ## 📋 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Sections](#sections)
-- [Contact Form](#contact-form)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+- [About]
+- [Features]
+- [Tech Stack]
+- [Getting Started]
+- [Project Structure]
+- [Sections]
+- [Contact Form]
+- [Deployment]
+- [Contributing]
+- [License]
 
 ## 🎯 About
 
