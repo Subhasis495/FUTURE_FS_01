@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://ubiquitous-crisp-f01557.netlify.app/)
+[View Live Portfolio](https://sdportfolio-sandy.vercel.app/)
 
 ## 📋 Table of Contents
 
